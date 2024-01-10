@@ -22,7 +22,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.0.9
 	github.com/pquerna/otp v1.4.0
 	github.com/prometheus/client_golang v1.16.0
-	github.com/quic-go/quic-go v0.37.0
+	github.com/quic-go/quic-go v0.37.7
 	github.com/sirupsen/logrus v1.9.3
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.25.2
@@ -109,7 +109,7 @@ require (
 	github.com/prometheus/client_model v0.4.0 // indirect
 	github.com/prometheus/common v0.42.0 // indirect
 	github.com/prometheus/procfs v0.10.1 // indirect
-	github.com/quic-go/qtls-go1-20 v0.3.0 // indirect
+	github.com/quic-go/qtls-go1-20 v0.3.1 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
